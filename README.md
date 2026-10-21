@@ -12,22 +12,14 @@
 
 ### About Me
 
-I'm a PhD researcher in Exercise Physiology at the University of Virginia, interested in understanding human physiology through quantitative research and data science.
-
-My research spans skeletal muscle function, vascular and cardiometabolic physiology, women's health, human performance, and aging.
-
-I'm particularly interested in translating physiological research into applications in wearable technology, digital health, and human performance analytics.
+I'm a PhD researcher in Exercise Physiology at the University of Virginia, interested in understanding human physiology through quantitative research and data science. My research spans skeletal muscle function, vascular and cardiometabolic physiology, women's health, human performance, and aging. I'm particularly interested in translating physiological research into applications in wearable technology, digital health, and human performance analytics.
 
 ### Research Interests
 
 - **Skeletal Muscle Physiology:** Muscle strength, endurance, oxidative capacity, and metabolic function.
-
 - **Women's Health & Vascular Physiology:** Menopause, endothelial function, oxidative stress, and exercise responses.
-
-- **Non-Invasive Physiological Assessment:** Near-infrared spectroscopy (NIRS), electrical impedance myography (EIM), and physiological sensing.
-
-- **Cardiometabolic Health & Aging:** Body composition, obesity, functional capacity, and healthy aging.
-
+- **Human Performance & Exercise Physiology:** Exercise adaptations, functional capacity, and physiological determinants of performance.
+- **Cardiometabolic Health & Aging:** Body composition, obesity, metabolic health, and healthy aging.
 - **Data Science & Digital Health:** Statistical modeling, machine learning, wearable technology, and digital biomarkers.
 
 ### Tools & Methods
