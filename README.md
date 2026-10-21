@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**christinakosti/christinakosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Christina Kosti
 
-Here are some ideas to get you started:
+**PhD Researcher in Exercise Physiology | University of Virginia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Exercise Physiology x Data Science x Human Health & Performance*
+
+</div>
+
+---
+
+### About Me
+
+I'm a PhD researcher in Exercise Physiology at the University of Virginia, interested in understanding human physiology through quantitative research and data science. My research focuses on skeletal muscle function, vascular physiology, women's health, cardiometabolic health, human performance and aging. I'm particularly interested in translating physiological research into applications in wearable technology, digital health and human performance analytics.
+
+### Research Interests
+
+- **Skeletal Muscle Physiology:** Muscle strength, endurance, oxidative capacity, and metabolic function.
+
+- **Women's Health & Vascular Physiology:** Menopause, endothelial function, oxidative stress, and exercise responses.
+
+- **Non-Invasive Physiological Assessment:** Near-infrared spectroscopy (NIRS), electrical impedance myography (EIM), and physiological sensing.
+
+- **Cardiometabolic Health & Aging:** Body composition, obesity, functional capacity, and healthy aging.
+
+- **Data Science & Digital Health:** Statistical modeling, machine learning, wearable technology, and digital biomarkers.
+
+### Tools & Methods
+
+- **Programming:** R (preferred), Python, MATLAB, SQL
+- **Development & Reproducibility:** RStudio, R Markdown, Quarto, Git/GitHub
+- **Statistical Analysis:** Linear and generalized linear models, ordinal regression, mixed-effects models, multivariate analysis, PCA, regularization, predictive modeling
+- **Physiological Assessment:** CPET, NIRS, EIM, DXA, BIS, ultrasound, isokinetic dynamometry
+- **Research Methods:** Experimental design, human participant research, physiological data collection, data visualization, and reproducible analysis
+
+### Beyond Research
+
+Former national-team track and field athlete with a passion for sport, science and exploring the world.
