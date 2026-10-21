@@ -35,7 +35,6 @@ I'm particularly interested in translating physiological research into applicati
 - **Programming:** R (preferred), Python, MATLAB, SQL
 - **Development & Reproducibility:** RStudio, R Markdown, Quarto, Git/GitHub
 - **Statistical Analysis:** Linear and generalized linear models, ordinal regression, mixed-effects models, multivariate analysis, PCA, regularization, predictive modeling
-- **Physiological Assessment:** CPET, NIRS, EIM, DXA, BIS, ultrasound, isokinetic dynamometry
 - **Research Methods:** Experimental design, human participant research, physiological data collection, data visualization, and reproducible analysis
 
 ### Beyond Research
